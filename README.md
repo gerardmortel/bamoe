@@ -23,7 +23,7 @@ The purpose of this repo is to automate activities to get IBM Business Automatio
 
 # Instructions
 1. ssh into the infrastructure node as root (e.g. ssh root@api.slavers.cp.fyre.ibm.com)
-2. yum install -y git unzip podman
+2. yum install -y git unzip
 3. cd
 4. rm -rf bamoe-main
 5. rm -f main.zip

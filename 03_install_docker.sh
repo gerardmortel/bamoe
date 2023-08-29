@@ -9,7 +9,7 @@ echo ""
 # From https://docs.docker.com/engine/install/centos/
 
 echo "#### Remove old versions of Docker"
-sudo yum remove docker \
+sudo yum remove -y docker \
                   docker-client \
                   docker-client-latest \
                   docker-common \
