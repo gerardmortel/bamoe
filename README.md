@@ -1,5 +1,5 @@
 # Repo to work with IBM Business Automation Manager Open Edition
-# https://github.ibm.com/gmortel/bamoe
+# https://github.ibm.com/gerardmortel/bamoe
 
 # Resources used to create this repo
 BAMOE Knowledge Center
@@ -13,6 +13,9 @@ https://www.ibm.com/support/pages/node/6999323
 
 Kie Tools
 https://github.com/kiegroup/kie-tools/releases
+
+Process with Decisions Integration through Business Rule Task
+https://github.com/kiegroup/kogito-examples/tree/main/kogito-quarkus-examples/process-decisions-quarkus
 
 # Purpose
 The purpose of this repo is to automate activities to get IBM Business Automation Manager Open Edition working
