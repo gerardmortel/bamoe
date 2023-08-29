@@ -1,5 +1,5 @@
 # Repo to work with IBM Business Automation Manager Open Edition
-# https://github.ibm.com/gerardmortel/bamoe
+# https://github.com/gerardmortel/bamoe
 
 # Resources used to create this repo
 BAMOE Knowledge Center
