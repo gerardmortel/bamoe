@@ -22,7 +22,7 @@ The purpose of this repo is to automate activities to get IBM Business Automatio
 2. Entitlement key https://myibm.ibm.com/products-services/containerlibrary
 
 # Instructions
-1. ssh into the infrastructure node as root (e.g. ssh root@api.slavers.cp.fyre.ibm.com)
+1. ssh into the RHEL 8.8 server as root (e.g. ssh root@api.slavers.cp.fyre.ibm.com)
 2. yum install -y git unzip
 3. cd
 4. rm -rf bamoe-main
@@ -31,5 +31,5 @@ The purpose of this repo is to automate activities to get IBM Business Automatio
 7. unzip main.zip
 8. rm -f main.zip
 9. cd bamoe-main
-10. STOP! Put your values inside file 02_setup_env.sh
+10. #STOP! Put your values inside file 02_setup_env.sh
 11. ./01_driver.sh
