@@ -7,4 +7,4 @@ echo "==========================================================================
 echo ""
 
 echo "#### Run BAMOE docker compose files"
-docker-compose up -d
+docker compose up -d
