@@ -2,8 +2,11 @@
 # https://github.com/gerardmortel/bamoe
 
 # Resources used to create this repo
-BAMOE Knowledge Center
+IBM BAMOE Knowledge Center
 https://www.ibm.com/docs/en/ibamoe/9.0.0
+
+IBM BAMOE Documentation
+https://github.com/IBM/bamoe-docs
 
 Install Docker on CentOS (RHEL not officially supported except on z/OS)
 https://docs.docker.com/engine/install/centos/
